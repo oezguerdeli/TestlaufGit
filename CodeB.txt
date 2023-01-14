@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Das ist Zeile 1 vom ersteller
 
 Noch eine Zeile!
+=======
+Das ist Zeile 2 von anderem User
+Das ist Zeile 1 vom ersteller
+
+>>>>>>> 504089a354091b1fc4059a2bce4510fdc3394523
